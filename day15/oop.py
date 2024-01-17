@@ -1,4 +1,3 @@
-
 class cse_department_room:
     def __init__(self, total_table, total_chair) -> None:
         self.table = total_table
